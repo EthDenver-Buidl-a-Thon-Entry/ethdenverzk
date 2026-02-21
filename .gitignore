@@ -1,0 +1,15 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+**/Assets/_Recovery/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
