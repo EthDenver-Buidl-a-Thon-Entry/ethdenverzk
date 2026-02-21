@@ -8,8 +8,13 @@
 [Uu]ser[Ss]ettings/
 **/Assets/_Recovery/
 
-# OS / IDE
-.DS_Store
-Thumbs.db
+# Gradle / VS / Rider
 .vscode/
 .idea/
+*.csproj
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db
